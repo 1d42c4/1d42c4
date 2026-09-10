@@ -12,12 +12,13 @@ For a simple reading experience, begin with **[Chess, Clearly](https://knightway
 
 | Repository | What it teaches | Read online |
 | --- | --- | --- |
+| [positional-chess — Positional Chess](https://github.com/knightway8/positional-chess) | **24 topic lessons + a study guide, 25 PDFs / 100 pages** on positional logic, pawn structures, piece activity, prevention, and conversion, with worked diagrams, exercises, and explained answers. | [Read PDFs or download all](https://knightway8.github.io/positional-chess/) |
 | [chess15 — Chess, Clearly](https://github.com/knightway8/chess15) | **16 lessons** on the board, piece movement, checks, castling, en passant, promotion, notation, and mate versus stalemate. | [Open lessons](https://knightway8.github.io/chess15/) |
 | [chess16 — Openings, Explained](https://github.com/knightway8/chess16) | **16 lessons** explaining the center, development, king safety, opening structures, gambits, and the transition into the middlegame. | [Open lessons](https://knightway8.github.io/chess16/) |
 | [chess17 — Tactics, Made Visible](https://github.com/knightway8/chess17) | **16 lessons** showing how forks, pins, skewers, discovered attacks, mating patterns, and underpromotion work. | [Open lessons](https://knightway8.github.io/chess17/) |
 | [chess18 — Endgames, Step by Step](https://github.com/knightway8/chess18) | **16 lessons** on active kings, opposition, pawn races, passed pawns, rook endings, and practical drawing methods. | [Open lessons](https://knightway8.github.io/chess18/) |
 
-These four collections have **64 standalone lessons and 128 diagrams**, with all explanations visible. Each includes a printable collection, Markdown notes, and PGN move sequences. Save individual lessons for offline reading, or use the browser's Print command to save a collection as a PDF.
+The **chess15–chess18** collections have **64 standalone lessons and 128 diagrams**, with all explanations visible. Each includes a printable collection, Markdown notes, and PGN move sequences. Save individual lessons for offline reading, or use the browser's Print command to save a collection as a PDF.
 
 ## Build habits with guided practice
 
