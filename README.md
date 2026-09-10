@@ -6,6 +6,25 @@ Chess takes time to understand. These collections make its ideas easier to see: 
 
 **Lessons in your browser · PDF and text libraries for offline study**
 
+## Ten focused chess books
+
+Start with move safety, then build toward calculation, planning and endings. These **10 new books contain 30 lessons, 60 starting positions and 120 PDF pages**. Each lesson pairs a worked example with a changed-position exercise and full answers. The web editions include all explanations; PDFs and replayable PGN files are available in every repository.
+
+| Book and repository | Focus | Read online |
+| --- | --- | --- |
+| [01. Stop Hanging Pieces](https://github.com/knightway8/chess-safe-moves) | Notice threats, check defenders, and save attacked pieces. | [Lessons and PDF](https://knightway8.github.io/chess-safe-moves/) |
+| [02. Calculate Short Lines](https://github.com/knightway8/chess-calculate-clearly) | Compare forcing replies, recaptures, and move order. | [Lessons and PDF](https://knightway8.github.io/chess-calculate-clearly/) |
+| [03. See Tactical Patterns](https://github.com/knightway8/chess-tactical-patterns) | Prove forks, pins, and skewers on the actual board. | [Lessons and PDF](https://knightway8.github.io/chess-tactical-patterns/) |
+| [04. Give Every Piece a Job](https://github.com/knightway8/chess-piece-coordination) | Choose useful files, stable knight squares, and bishop routes. | [Lessons and PDF](https://knightway8.github.io/chess-piece-coordination/) |
+| [05. Think Before Moving a Pawn](https://github.com/knightway8/chess-pawn-decisions) | Check support, pawn breaks, and promotion races. | [Lessons and PDF](https://knightway8.github.io/chess-pawn-decisions/) |
+| [06. Openings with Reasons](https://github.com/knightway8/chess-openings-with-reasons) | Develop for a reason, castle legally, and use a real tempo. | [Lessons and PDF](https://knightway8.github.io/chess-openings-with-reasons/) |
+| [07. Find a Defensive Resource](https://github.com/knightway8/chess-defensive-thinking) | Compare captures, blocks, escapes, and removal of attackers. | [Lessons and PDF](https://knightway8.github.io/chess-defensive-thinking/) |
+| [08. Checkmate Without Stalemate](https://github.com/knightway8/chess-essential-checkmates) | Coordinate king and heavy piece; distinguish mate from stalemate. | [Lessons and PDF](https://knightway8.github.io/chess-essential-checkmates/) |
+| [09. King and Pawn Decisions](https://github.com/knightway8/chess-king-pawn-endings) | Use key squares, opposition, and the rook-pawn exception. | [Lessons and PDF](https://knightway8.github.io/chess-king-pawn-endings/) |
+| [10. Rook Endgames That Make Sense](https://github.com/knightway8/chess-rook-endgame-basics) | Coordinate a passer, defend with Philidor, and build a Lucena bridge. | [Lessons and PDF](https://knightway8.github.io/chess-rook-endgame-basics/) |
+
+Positions and listed moves were checked for legality, with Stockfish 19 analysis and exact small-ending tablebases where available. The lessons distinguish illustrative plans from forced lines and explain when familiar rules fail.
+
 ## Start with one clear lesson
 
 For a simple reading experience, begin with **[Chess, Clearly](https://knightway8.github.io/chess15/)**, then explore openings, tactics, and endgames below. Each page teaches one idea and shows the explanation and moves directly.
