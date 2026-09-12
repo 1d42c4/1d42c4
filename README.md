@@ -31,6 +31,7 @@ For a simple reading experience, begin with **[Chess, Clearly](https://knightway
 
 | Repository | What it teaches | Read online |
 | --- | --- | --- |
+| [chess-trading-course — When to Trade & When to Take](https://github.com/knightway8/chess-trading-course) | **21-page PDF course, 8 lessons and 10 exercises with explained answers** on safe captures, piece exchanges, pawn tension, recaptures, and endgame decisions. | [Read PDF](https://github.com/knightway8/chess-trading-course/blob/main/when-to-trade-and-take.pdf) · [PGN positions](https://github.com/knightway8/chess-trading-course/blob/main/positions-and-answers.pgn) |
 | [positional-chess — Positional Chess](https://github.com/knightway8/positional-chess) | **24 topic lessons + a study guide, 25 PDFs / 100 pages** on positional logic, pawn structures, piece activity, prevention, and conversion, with worked diagrams, exercises, and explained answers. | [Read PDFs or download all](https://knightway8.github.io/positional-chess/) |
 | [chess15 — Chess, Clearly](https://github.com/knightway8/chess15) | **16 lessons** on the board, piece movement, checks, castling, en passant, promotion, notation, and mate versus stalemate. | [Open lessons](https://knightway8.github.io/chess15/) |
 | [chess16 — Openings, Explained](https://github.com/knightway8/chess16) | **16 lessons** explaining the center, development, king safety, opening structures, gambits, and the transition into the middlegame. | [Open lessons](https://knightway8.github.io/chess16/) |
