@@ -1,4 +1,5 @@
-![Bright green and red chess armies face each other in starting formation beneath a sky full of stars.](assets/chess-in-space.png)
+<img width="1672" height="941" alt="1" src="https://github.com/user-attachments/assets/ab5bf51d-e8f0-4870-86d4-aa304dfe2bac" />
+
 
 # knightway8 · Chess Learning Library
 
