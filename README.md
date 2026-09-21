@@ -7,6 +7,14 @@ Chess takes time to understand. These collections make its ideas easier to see: 
 
 **Lessons in your browser · PDF and text libraries for offline study**
 
+## Explore all 500 opening categories
+
+The **[Chess Opening Library](https://github.com/1d42c4/chess-opening-library)** has **500 illustrated opening PDFs**, one for every ECO code from A00 to E99, plus a reading guide. Search **3,815 named move-order entries**, learn both sides' plans, compare practical opening-family assessments, and explore documented tournament examples with replayable model games.
+
+**[Search the opening library](https://1d42c4.github.io/chess-opening-library/) · [Download all PDFs](https://github.com/1d42c4/chess-opening-library/archive/refs/heads/main.zip) · [Read the guide](https://1d42c4.github.io/chess-opening-library/00_START_HERE.pdf)**
+
+Each guide includes a board diagram, strengths and risks, study demands, a brief Stockfish check and named variations. Family assessments, position evaluations and sampled game counts are explained separately.
+
 ## Ten focused chess books
 
 Start with move safety, then build toward calculation, planning and endings. These **10 new books contain 30 lessons, 60 starting positions and 120 PDF pages**. Each lesson pairs a worked example with a changed-position exercise and full answers. The web editions include all explanations; PDFs and replayable PGN files are available in every repository.
