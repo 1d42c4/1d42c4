@@ -4,7 +4,15 @@
 
 A guide to the public projects here: learn chess through explained positions and practice, find books to study offline, or explore the software collection below.
 
-**[Chess library](#chess-learning-library) · [Suggested learning path](#where-to-start) · [Offline books](#books-and-libraries-for-offline-study) · [Other projects](#other-projects)**
+**[Chess library](#chess-learning-library) · [1.d4 / 2.c4 repertoire](#new--1d4--2c4-repertoire-study-library) · [Suggested learning path](#where-to-start) · [Offline books](#books-and-libraries-for-offline-study) · [Other projects](#other-projects)**
+
+## New · 1.d4 / 2.c4 Repertoire Study Library
+
+Build a broader White repertoire through **40 module guides and 1,960 distinct position lessons — 2,000 PDFs in all**. Compare options against the Queen's Gambit defenses, Catalan, Indian defenses, Grünfeld, Benoni, Dutch, and early surprises. Every board is shown from White's side on muted gray pages.
+
+Start with the repertoire map, choose one defense, and try five positions before adding more. Each two-page lesson asks you to compare candidate moves and find Black's reply before revealing worked continuations. The library covers opening plans and related middlegame decisions; its AI-created explanations and finite Stockfish 18 checks are not exhaustive theory.
+
+**[Browse the 40 modules](https://1d42c4.github.io/d4-c4-repertoire/) · [Open the starting guide](https://1d42c4.github.io/d4-c4-repertoire/pdfs/01/guide.pdf) · [Download all PDFs and the offline index](https://github.com/1d42c4/d4-c4-repertoire/archive/refs/heads/main.zip)**
 
 ## Chess learning library
 
@@ -20,6 +28,7 @@ The courses cover different needs and often overlap. You do not need to finish e
 | **Find a plan when there is no obvious tactic** | Study [Make a Plan](https://1d42c4.github.io/chess13/) and the [Positional Chess books](https://1d42c4.github.io/positional-chess/). |
 | **Convert an advantage or save a difficult ending** | Read [Endgames, Step by Step](https://1d42c4.github.io/chess18/), then work through [Finish the Game](https://1d42c4.github.io/chess14/). |
 | **Choose and understand an opening** | Learn the ideas in [Openings with Reasons](https://1d42c4.github.io/chess-openings-with-reasons/), then look up your opening in the [searchable opening library](https://1d42c4.github.io/chess-opening-library/). |
+| **Build a White 1.d4 / 2.c4 repertoire** | Start with the [repertoire map](https://1d42c4.github.io/d4-c4-repertoire/pdfs/01/guide.pdf), then choose a defense in the [40-module study library](https://1d42c4.github.io/d4-c4-repertoire/). Compare alternatives after learning your first route. |
 
 **A simple study routine:** read one explanation, try the position before looking at the answer, play through the opponent's reply, and write down one idea to check in your next game. Review your own games for that idea before moving on.
 
@@ -68,6 +77,7 @@ Each course has **24 lessons, a six-week study plan, interactive exercises, and 
 
 | Repository | What it contains and when to use it | Start here |
 | --- | --- | --- |
+| [d4-c4-repertoire](https://github.com/1d42c4/d4-c4-repertoire) | **2,000 PDFs across 40 modules**: broad White 1.d4 / 2.c4 choices, both sides' plans, and 1,960 distinct positions with candidate moves and worked answers. Muted gray pages and White-side boards. | [Browse modules](https://1d42c4.github.io/d4-c4-repertoire/) · [Starting guide](https://1d42c4.github.io/d4-c4-repertoire/pdfs/01/guide.pdf) |
 | [chess-opening-library](https://github.com/1d42c4/chess-opening-library) | **500 illustrated opening guides**, covering every ECO category from A00 to E99. Search 3,815 named move-order entries, compare both sides' plans and risks, and replay model games. Use it as a reference after learning opening principles. | [Search the library](https://1d42c4.github.io/chess-opening-library/) · [Reading guide](https://1d42c4.github.io/chess-opening-library/00_START_HERE.pdf) |
 | [positional-chess](https://github.com/1d42c4/positional-chess) | **24 illustrated topic lessons plus a study guide** in 25 PDFs. Learn to evaluate positions, improve pieces, handle pawn structures, prevent the opponent's ideas, and convert advantages through worked examples and exercises. | [Read or download](https://1d42c4.github.io/positional-chess/) |
 | [chess-trading-course](https://github.com/1d42c4/chess-trading-course) | **When to Trade & When to Take:** a 21-page course with eight lessons and ten exercises. Covers safe captures, defenders, recaptures, piece activity, pawn tension, queen trades, and endgame pitfalls. | [Read the PDF](https://github.com/1d42c4/chess-trading-course/blob/main/when-to-trade-and-take.pdf) · [Replay positions](https://github.com/1d42c4/chess-trading-course/blob/main/positions-and-answers.pgn) |
