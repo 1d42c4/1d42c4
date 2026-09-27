@@ -2,7 +2,7 @@
 
 # Free Chess Courses for Everyone
 
-**All of my chess courses are free to read, study, and download.** I share them to help people understand chess and enjoy learning it. I do not monetize this project.
+**All of my chess courses are free to read, study, and download.** I share them to help people understand chess and enjoy learning it. I do not monetize this project or anything i do online.
 
 Welcome to the menu of my **36 chess courses, collections, archives, and study tools**. Read online, save a book for later, or choose a skill you want to practice. Everyone is welcome.
 
