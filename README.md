@@ -68,7 +68,7 @@ Browse by subject, revisit an idea, or work through a longer series of lessons.
 
 | Collection | What you will find | Open |
 | --- | --- | --- |
-| **Chess Keys** | **3,000 one-page PDFs:** 120 concept lessons and 2,880 annotated positions covering chess math, opening decisions, positional play, tactics, and endgames. Includes 42 chapters and a searchable offline index. | [Files](https://github.com/1d42c4/chess-keys) |
+| **Chess Keys** | **3,000 one-page PDFs:** 120 concept lessons and 2,880 annotated positions covering chess math, opening decisions, positional play, tactics, and endgames. Includes 42 chapters and a searchable index online or offline. | [Read](https://1d42c4.github.io/chess-keys/) · [Files](https://github.com/1d42c4/chess-keys) |
 | **Chess Combat School** | Opening courses on the Hippopotamus from both sides, King's Indian systems, King's Gambit, Scandinavian, and 1.d4 / 2.c4. | [Read](https://1d42c4.github.io/chess7/) · [Files](https://github.com/1d42c4/chess7) |
 | **OnePageLove Chess** | **1,000 lessons in 20 divisions**, plus interactive Hippopotamus and King's Indian courses and a Hippo counter trainer. | [Read](https://1d42c4.github.io/chess8/) · [Files](https://github.com/1d42c4/chess8) |
 | **Positional Logic** | **500 lessons** exploring 50 positional patterns through repeated practice, with boards and progress tracking. | [Read](https://1d42c4.github.io/chess9/) · [Files](https://github.com/1d42c4/chess9) |
