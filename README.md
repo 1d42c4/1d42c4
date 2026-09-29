@@ -4,7 +4,7 @@
 
 **All of my chess courses are free to read, study, and download.** I share them to help people understand chess and enjoy learning it. I do not monetize this project or anything i do online.
 
-Welcome to the menu of my **36 chess courses, collections, archives, and study tools**. Read online, save a book for later, or choose a skill you want to practice. Everyone is welcome.
+Welcome to the menu of my **37 chess courses, collections, archives, and study tools**. Read online, save a book for later, or choose a skill you want to practice. Everyone is welcome.
 
 **[Beginner lessons](#beginner-lessons) · [Practical workbooks](#practical-workbooks) · [Guided practice](#guided-practice) · [Openings and strategy](#openings-and-strategy) · [Larger collections](#larger-collections) · [Offline libraries](#offline-libraries) · [More chess resources](#more-chess-resources)**
 
@@ -68,6 +68,7 @@ Browse by subject, revisit an idea, or work through a longer series of lessons.
 
 | Collection | What you will find | Open |
 | --- | --- | --- |
+| **Chess Keys** | **3,000 one-page PDFs:** 120 concept lessons and 2,880 annotated positions covering chess math, opening decisions, positional play, tactics, and endgames. Includes 42 chapters and a searchable offline index. | [Files](https://github.com/1d42c4/chess-keys) |
 | **Chess Combat School** | Opening courses on the Hippopotamus from both sides, King's Indian systems, King's Gambit, Scandinavian, and 1.d4 / 2.c4. | [Read](https://1d42c4.github.io/chess7/) · [Files](https://github.com/1d42c4/chess7) |
 | **OnePageLove Chess** | **1,000 lessons in 20 divisions**, plus interactive Hippopotamus and King's Indian courses and a Hippo counter trainer. | [Read](https://1d42c4.github.io/chess8/) · [Files](https://github.com/1d42c4/chess8) |
 | **Positional Logic** | **500 lessons** exploring 50 positional patterns through repeated practice, with boards and progress tracking. | [Read](https://1d42c4.github.io/chess9/) · [Files](https://github.com/1d42c4/chess9) |
